@@ -1,7 +1,7 @@
 # robloxsnipr | @ekwg on discord for questions :)
 
 <h1> commands </h1>
-,search -tries -amount -false <br>
+,search -tries -amount -false \n
 ,stop
 <br>
 examples 
